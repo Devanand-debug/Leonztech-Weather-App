@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Leonztech Weather App</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="forecast">Forecast</string>
+    <string name="temperature">Temperature</string>
+    <string name="api_key">cbffe991e206e490b4e09b930ed86d16</string>
+</resources>
